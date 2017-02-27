@@ -12,12 +12,11 @@
 
 | Behavior |   Input   |   Output   |
 |----------|:---------:|:----------:|
-| On click, display content contained in places object in a list | *click* | * place name
-* dates
-* landmarks |
+| On click, display content contained in places object in a list | *click* | place name, dates, landmarks |
+| Display list in output div | *click* | place name, dates, landmarks |
 
 
-###This is the initial release (1.0). Check out my page on gh-pages: https://likewater.github.io/ping-pong/
+###This is the initial release (1.0): https://likewater.github.io/places/
 
 #Getting Started
 
@@ -34,7 +33,3 @@
 #License
 
 ###This project is licensed under the MIT License - (https://opensource.org/licenses/MIT)
-
-#Inspiration
-
-###Thanks to so many unnameable people whose projects I have taken note of and gained inspiration from. Thanks to Douglas Crockford for writing JS books that even I can understand, sometimes...
