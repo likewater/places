@@ -1,0 +1,17 @@
+.jumbotron{
+  background-repeat: none;
+  background-size: cover;
+  min-height:700px;
+  text-align: center;
+  text-shadow: -3px -3px white;
+}
+.btn {
+  width: 200px;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
